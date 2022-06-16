@@ -1,0 +1,2 @@
+# DataMining_TP01_Initiation-Weka
+Data mining is the study of collecting, cleaning, processing, analyzing, and gaining useful insights from data. A wide variation exists in terms of the problem domains, applications, formulations, and data representations that are encountered in real ap- plications. Therefore, “data mining” is a broad umbrella term that is used to describe these different aspects of data processing.
